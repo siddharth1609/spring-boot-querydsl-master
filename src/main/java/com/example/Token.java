@@ -13,6 +13,5 @@ public class Token {
     @Id
     @GeneratedValue
     private Long id;
-	//siddhart 
 
 }

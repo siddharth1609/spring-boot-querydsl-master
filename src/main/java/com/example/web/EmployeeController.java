@@ -7,6 +7,6 @@ import com.example.servicies.EmployeeService;
 public class EmployeeController {
 	
 	@Autowired
-	EmployeeService service;//siddhart
+	EmployeeService service;
 
 }
